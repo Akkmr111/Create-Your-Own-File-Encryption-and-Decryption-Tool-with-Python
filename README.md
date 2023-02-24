@@ -12,9 +12,6 @@ Make sure the following software is installed on your computer before we begin:
 cryptography package 
 Python 3
 
-Download the Source Code for File Encryption and Decryption Tool.
-Please download the source code for the Project using the link: 
-
 Getting Started
 The requirement for this Python project can be installed using commands:
 1.	Cryptography – pip install cryptography
